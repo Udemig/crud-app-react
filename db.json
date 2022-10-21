@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "studentNumber": "100",
+      "name": "Ahmet",
+      "surname": "Mehmet",
+      "class": "5/B"
+    },
+    {
+      "id": "2",
+      "studentNumber": "101",
+      "name": "John",
+      "surname": "Nesh",
+      "class": "5/C"
+    },
+    {
+      "id": "1666293364461",
+      "studentNumber": "102",
+      "name": "deneme1edit",
+      "surname": "deneme1editj",
+      "class": "5/A"
+    }
+  ]
+}
